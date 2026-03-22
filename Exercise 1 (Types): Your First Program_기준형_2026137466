@@ -20,3 +20,10 @@ type(6//2) # int, as the double slashes stand for integer division
 # Let's write an expression that calculates how many hours there are in 160 minutes:
 160//60 # 2
 
+# Exercise 5 (Types): Expression and Variables in Python
+# What is the value of x where x = 3 + 2 * 2
+x = 3 + 2 * 2 # 7 # 7
+# What is the value of y where y = (3 + 2) * 2?
+y = (3 + 2) * 2 # 10
+# What is the value of z where z = x + y?
+z = x + y # 17
