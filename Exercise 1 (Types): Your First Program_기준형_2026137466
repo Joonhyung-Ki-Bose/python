@@ -1,0 +1,5 @@
+# Write your code below and press Shift+Enter to execute 
+# In the code cell below, use the print() function to print out the phrase: Hello, world!
+print("Hello, world!")
+# Hello, world! and comment it with the phrase Print the traditional hello world all in one line of code.
+print("Hello, world!") # Print the traditional hello world
