@@ -1,0 +1,10 @@
+soundtrack_dic = {"The Bodyguard":"1992", "Saturday Night Fever":"1977"}
+soundtrack_dic 
+# Write your code below and press Shift+Enter to execute
+soundtrack_dic.keys() # dict_keys(['The Bodyguard', 'Saturday Night Fever'])
+soundtrack_dic.values() # dict_values(['1992', '1977'])
+
+album_sales_dict = {"The Bodyguard":50, "Back in Black":50, "Thriller":65} 
+album_sales_dict["Thriller"] # 65
+album_sales_dict.keys() # dict_keys(['The Bodyguard', 'Back in Black', 'Thriller'])
+album_sales_dict.values() # dict_values([50, 50, 65])
