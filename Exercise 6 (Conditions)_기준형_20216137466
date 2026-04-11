@@ -1,0 +1,17 @@
+# Write your code below and press Shift+Enter to execute
+rating = 9
+if rating > 8:
+    print ("This album is Amazing!")
+
+# Write your code below and press Shift+Enter to execute
+rating = 7
+if rating > 8:
+    print ("This album is Amazing!")
+else:
+    print ("this album is ok!")
+
+# Write your code below and press Shift+Enter to execute
+album_year = 1991
+
+if album_year < 1980 or album_year == 1991 or album_year == 1993:
+    print ("this album came out already")
