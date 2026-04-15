@@ -24,3 +24,4 @@ while(squares[i] == 'orange'):
     new_squares.append(squares[i])
     i = i + 1
 print (new_squares) # ['orange', 'orange']
+
